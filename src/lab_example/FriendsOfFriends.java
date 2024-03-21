@@ -1,3 +1,5 @@
+package lab_example;
+
 import java.io.IOException;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -26,6 +28,7 @@ public class FriendsOfFriends {
       Job job = Job.getInstance(conf, "Friends of Friends 2024 by Chui Tsz Hin 23219041");
       job.setJarByClass(FriendsOfFriends.class);
       job.setMapperClass(FriendsOfFriends.FriendMapper.class);
+
       job.setReducerClass(FriendsOfFriends.FriendReducer.class);
       job.setOutputKeyClass(IntWritable.class);
       job.setOutputValueClass(IntWritable.class);

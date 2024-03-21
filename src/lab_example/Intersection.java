@@ -1,3 +1,5 @@
+package lab_example;
+
 import java.io.IOException;
 import java.util.Iterator;
 import java.util.StringTokenizer;
@@ -26,6 +28,7 @@ public class Intersection {
       job.setMapperClass(Intersection.IntersectionMapper.class);
       job.setMapOutputKeyClass(IntWritable.class);
       job.setMapOutputValueClass(IntWritable.class);
+
       job.setReducerClass(Intersection.IntersectionReducer.class);
       job.setOutputKeyClass(IntWritable.class);
       job.setOutputValueClass(IntWritable.class);

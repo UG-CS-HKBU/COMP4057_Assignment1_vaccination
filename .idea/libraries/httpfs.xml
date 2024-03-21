@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="httpfs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/hadoop/httpfs" />
+      <root url="jar://$PROJECT_DIR$/hadoop/commons-cli-1.4.jar!/" />
+      <root url="file://$PROJECT_DIR$/hadoop/mapreduce" />
+      <root url="file://$PROJECT_DIR$/hadoop/yarn" />
+      <root url="file://$PROJECT_DIR$/hadoop/common" />
+      <root url="file://$PROJECT_DIR$/hadoop/hdfs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/hadoop/common/jdiff" />
+      <root url="file://$PROJECT_DIR$/hadoop/hdfs/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/hadoop/common" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/hadoop/mapreduce" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/hadoop/yarn" recursive="false" />
+  </library>
+</component>

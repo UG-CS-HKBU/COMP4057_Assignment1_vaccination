@@ -1,0 +1,17 @@
+data 1
+data 2
+data 4
+data 8
+data 16
+data 32
+data 64
+data 128
+data 256
+centric 1
+centric 4
+centric 16
+centric 64
+centric 256
+computing 1
+computing 8
+computing 64
