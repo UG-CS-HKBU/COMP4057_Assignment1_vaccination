@@ -5,9 +5,40 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/hadoop" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Join2" />
+      <excludeFolder url="file://$MODULE_DIR$/src/lab_example" />
+      <excludeFolder url="file://$MODULE_DIR$/src/org/apache/hadoop/examples" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="httpfs" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/hadoop/httpfs" />
+          <root url="file://$MODULE_DIR$/hadoop/mapreduce" />
+          <root url="file://$MODULE_DIR$/hadoop/yarn" />
+          <root url="file://$MODULE_DIR$/hadoop/common" />
+          <root url="file://$MODULE_DIR$/hadoop/hdfs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/hadoop/common/jdiff" />
+          <root url="file://$MODULE_DIR$/hadoop/hdfs/jdiff" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/hadoop/common" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/hadoop/hdfs" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/hadoop/mapreduce" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/hadoop/yarn" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/hadoop/commons-cli-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
