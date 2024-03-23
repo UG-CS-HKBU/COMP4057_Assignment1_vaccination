@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/COMP4057_Assignment1_vaccination.iml" filepath="$PROJECT_DIR$/.idea/COMP4057_Assignment1_vaccination.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Q1/Vaccination_Q1.iml" filepath="$PROJECT_DIR$/src/Q1/Vaccination_Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Q2/Vaccination_Q2.iml" filepath="$PROJECT_DIR$/src/Q2/Vaccination_Q2.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,108 @@
+BioNTech -> Age Group: 0-11, 1 dose: 	0
+BioNTech -> Age Group: 0-11, 2 dose: 	0
+BioNTech -> Age Group: 0-11, 3 dose: 	1
+BioNTech -> Age Group: 0-11, 4 dose: 	0
+BioNTech -> Age Group: 0-11, 5 dose: 	0
+BioNTech -> Age Group: 0-11, 6 dose: 	0
+BioNTech -> Age Group: 12-19, 1 dose: 	19466
+BioNTech -> Age Group: 12-19, 2 dose: 	4923
+BioNTech -> Age Group: 12-19, 3 dose: 	513
+BioNTech -> Age Group: 12-19, 4 dose: 	0
+BioNTech -> Age Group: 12-19, 5 dose: 	0
+BioNTech -> Age Group: 12-19, 6 dose: 	0
+BioNTech -> Age Group: 20-29, 1 dose: 	23152
+BioNTech -> Age Group: 20-29, 2 dose: 	22387
+BioNTech -> Age Group: 20-29, 3 dose: 	9006
+BioNTech -> Age Group: 20-29, 4 dose: 	3
+BioNTech -> Age Group: 20-29, 5 dose: 	0
+BioNTech -> Age Group: 20-29, 6 dose: 	0
+BioNTech -> Age Group: 30-39, 1 dose: 	27220
+BioNTech -> Age Group: 30-39, 2 dose: 	27005
+BioNTech -> Age Group: 30-39, 3 dose: 	20448
+BioNTech -> Age Group: 30-39, 4 dose: 	0
+BioNTech -> Age Group: 30-39, 5 dose: 	0
+BioNTech -> Age Group: 30-39, 6 dose: 	0
+BioNTech -> Age Group: 40-49, 1 dose: 	19427
+BioNTech -> Age Group: 40-49, 2 dose: 	20614
+BioNTech -> Age Group: 40-49, 3 dose: 	33621
+BioNTech -> Age Group: 40-49, 4 dose: 	2
+BioNTech -> Age Group: 40-49, 5 dose: 	0
+BioNTech -> Age Group: 40-49, 6 dose: 	0
+BioNTech -> Age Group: 50-59, 1 dose: 	18014
+BioNTech -> Age Group: 50-59, 2 dose: 	19082
+BioNTech -> Age Group: 50-59, 3 dose: 	38366
+BioNTech -> Age Group: 50-59, 4 dose: 	2
+BioNTech -> Age Group: 50-59, 5 dose: 	0
+BioNTech -> Age Group: 50-59, 6 dose: 	0
+BioNTech -> Age Group: 60-69, 1 dose: 	19161
+BioNTech -> Age Group: 60-69, 2 dose: 	21360
+BioNTech -> Age Group: 60-69, 3 dose: 	54399
+BioNTech -> Age Group: 60-69, 4 dose: 	0
+BioNTech -> Age Group: 60-69, 5 dose: 	0
+BioNTech -> Age Group: 60-69, 6 dose: 	0
+BioNTech -> Age Group: 70-79, 1 dose: 	10846
+BioNTech -> Age Group: 70-79, 2 dose: 	12053
+BioNTech -> Age Group: 70-79, 3 dose: 	20058
+BioNTech -> Age Group: 70-79, 4 dose: 	0
+BioNTech -> Age Group: 70-79, 5 dose: 	0
+BioNTech -> Age Group: 70-79, 6 dose: 	0
+BioNTech -> Age Group: 80 and above, 1 dose: 	4539
+BioNTech -> Age Group: 80 and above, 2 dose: 	4923
+BioNTech -> Age Group: 80 and above, 3 dose: 	3829
+BioNTech -> Age Group: 80 and above, 4 dose: 	0
+BioNTech -> Age Group: 80 and above, 5 dose: 	0
+BioNTech -> Age Group: 80 and above, 6 dose: 	0
+Sinovac -> Age Group: 0-11, 1 dose: 	50
+Sinovac -> Age Group: 0-11, 2 dose: 	8
+Sinovac -> Age Group: 0-11, 3 dose: 	0
+Sinovac -> Age Group: 0-11, 4 dose: 	0
+Sinovac -> Age Group: 0-11, 5 dose: 	0
+Sinovac -> Age Group: 0-11, 6 dose: 	0
+Sinovac -> Age Group: 12-19, 1 dose: 	9879
+Sinovac -> Age Group: 12-19, 2 dose: 	961
+Sinovac -> Age Group: 12-19, 3 dose: 	455
+Sinovac -> Age Group: 12-19, 4 dose: 	0
+Sinovac -> Age Group: 12-19, 5 dose: 	0
+Sinovac -> Age Group: 12-19, 6 dose: 	0
+Sinovac -> Age Group: 20-29, 1 dose: 	5187
+Sinovac -> Age Group: 20-29, 2 dose: 	4610
+Sinovac -> Age Group: 20-29, 3 dose: 	8548
+Sinovac -> Age Group: 20-29, 4 dose: 	0
+Sinovac -> Age Group: 20-29, 5 dose: 	0
+Sinovac -> Age Group: 20-29, 6 dose: 	0
+Sinovac -> Age Group: 30-39, 1 dose: 	10711
+Sinovac -> Age Group: 30-39, 2 dose: 	9432
+Sinovac -> Age Group: 30-39, 3 dose: 	18081
+Sinovac -> Age Group: 30-39, 4 dose: 	0
+Sinovac -> Age Group: 30-39, 5 dose: 	0
+Sinovac -> Age Group: 30-39, 6 dose: 	0
+Sinovac -> Age Group: 40-49, 1 dose: 	13770
+Sinovac -> Age Group: 40-49, 2 dose: 	12961
+Sinovac -> Age Group: 40-49, 3 dose: 	40240
+Sinovac -> Age Group: 40-49, 4 dose: 	0
+Sinovac -> Age Group: 40-49, 5 dose: 	0
+Sinovac -> Age Group: 40-49, 6 dose: 	0
+Sinovac -> Age Group: 50-59, 1 dose: 	19694
+Sinovac -> Age Group: 50-59, 2 dose: 	19284
+Sinovac -> Age Group: 50-59, 3 dose: 	49355
+Sinovac -> Age Group: 50-59, 4 dose: 	0
+Sinovac -> Age Group: 50-59, 5 dose: 	0
+Sinovac -> Age Group: 50-59, 6 dose: 	0
+Sinovac -> Age Group: 60-69, 1 dose: 	25941
+Sinovac -> Age Group: 60-69, 2 dose: 	27030
+Sinovac -> Age Group: 60-69, 3 dose: 	52370
+Sinovac -> Age Group: 60-69, 4 dose: 	0
+Sinovac -> Age Group: 60-69, 5 dose: 	0
+Sinovac -> Age Group: 60-69, 6 dose: 	0
+Sinovac -> Age Group: 70-79, 1 dose: 	17728
+Sinovac -> Age Group: 70-79, 2 dose: 	18472
+Sinovac -> Age Group: 70-79, 3 dose: 	23439
+Sinovac -> Age Group: 70-79, 4 dose: 	0
+Sinovac -> Age Group: 70-79, 5 dose: 	0
+Sinovac -> Age Group: 70-79, 6 dose: 	0
+Sinovac -> Age Group: 80 and above, 1 dose: 	11494
+Sinovac -> Age Group: 80 and above, 2 dose: 	10015
+Sinovac -> Age Group: 80 and above, 3 dose: 	5742
+Sinovac -> Age Group: 80 and above, 4 dose: 	0
+Sinovac -> Age Group: 80 and above, 5 dose: 	0
+Sinovac -> Age Group: 80 and above, 6 dose: 	0
