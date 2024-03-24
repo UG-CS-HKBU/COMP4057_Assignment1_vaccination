@@ -2,7 +2,7 @@
 
 JARNAME=Vaccination_Q1.jar
 CLASSNAME=Vaccination_Q1
-SRC=~/src/Assignment1/Q1
+SRC=~/src/23219041_Assignment1/Q1
 HDFS_HOME=~
 INPUT_FILE=vaccination-rates-over-time-by-age.txt
 OUTPUT_DIR=Vaccination_Q1
