@@ -1,0 +1,29 @@
+Join2.java Explain & Step
+
+context.write(new IntWritable(Integer.parseInt(courseID)), new Text(table_name + " " + person_name));
+Output:
+4057 P Byron
+4035 P Byron
+4107 P Martin
+3047 P Martin
+4035 S Mandy
+4035 S Hu
+4057 S Hu
+
+Reducer will merge up with same key
+Output:
+3047 <P Martin>
+4035 <P Byron, S Mandy, S Hu>
+4057 <P Byron, S Hu>
+4107 <P Martin>
+
+Loop through each <a,b,c,d,...>
+If P -> Set<Person> professors
+If S -> Set<Person> students
+
+while professors.hasNext --> while students.hasNext
+    context.write(new Text(p.person_name), new Text(s.person_name));
+Output:
+Byron Mandy
+Byron Hu
+Byron Hu

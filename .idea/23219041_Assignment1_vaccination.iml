@@ -3,11 +3,11 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/hadoop" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/Join2" />
       <excludeFolder url="file://$MODULE_DIR$/src/lab_example" />
       <excludeFolder url="file://$MODULE_DIR$/src/org/apache/hadoop/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/hadoop" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/23219041_Assignment1_vaccination.iml" filepath="$PROJECT_DIR$/.idea/23219041_Assignment1_vaccination.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Q1/Vaccination_Q1.iml" filepath="$PROJECT_DIR$/src/Q1/Vaccination_Q1.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Q2/Vaccination_Q2.iml" filepath="$PROJECT_DIR$/src/Q2/Vaccination_Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Q3/Vaccination_Q3.iml" filepath="$PROJECT_DIR$/src/Q3/Vaccination_Q3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Q4/Vaccination_Q4.iml" filepath="$PROJECT_DIR$/src/Q4/Vaccination_Q4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Q5/Vaccination_Q5.iml" filepath="$PROJECT_DIR$/src/Q5/Vaccination_Q5.iml" />
     </modules>
   </component>
 </project>

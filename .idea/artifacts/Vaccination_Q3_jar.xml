@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Vaccination_Q3:jar">
+    <output-path>$PROJECT_DIR$/src/Q3/out</output-path>
+    <root id="archive" name="Vaccination_Q3.jar">
+      <element id="module-output" name="Vaccination_Q3" />
+    </root>
+  </artifact>
+</component>

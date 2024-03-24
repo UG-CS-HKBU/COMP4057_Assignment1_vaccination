@@ -7,6 +7,6 @@
 ```
 hadoop fs -copyFromLocal ~/src/23219041_Assignment1/Q2/vaccination-rates-over-time-by-age-v2.txt ~
 hadoop fs -rm -r ~/Vaccination_Q2
-hadoop jar Vaccination_Q2.jar Vaccination_Q2 ~/vaccination-rates-over-time-by-age-v2.txt ~/Vaccination_Q2
+hadoop jar ~/src/23219041_Assignment1/Q2/Vaccination_Q2.jar Vaccination_Q2 ~/vaccination-rates-over-time-by-age-v2.txt ~/Vaccination_Q2
 hadoop fs -cat ~/Vaccination_Q2/* > ~/src/23219041_Assignment1/Q2/Vaccination_Q2.txt
 ```

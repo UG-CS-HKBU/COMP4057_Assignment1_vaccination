@@ -7,7 +7,7 @@
 
 ## TODO
 ```
-src/Assignment1/Q2/runQ2.sh
+src/23219041_Assignment1/Q4/runQ4.sh
 hadoop fs -copyFromLocal vaccination-rates-over-time-by-age-v2.txt ~
 hadoop fs -rm -r ~/Vaccination_Q2
 hadoop jar Vaccination_Q1.jar Vaccination_Q1 ~/vaccination-rates-over-time-by-age.txt ~/Vaccination_Q1
