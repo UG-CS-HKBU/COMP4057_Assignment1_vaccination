@@ -8,5 +8,5 @@
 hadoop fs -copyFromLocal ~/src/23219041_Assignment1/Q1/vaccination-rates-over-time-by-age.txt ~
 hadoop fs -rm -r ~/Vaccination_Q1
 hadoop jar ~/src/23219041_Assignment1/Q1/Vaccination_Q1.jar Vaccination_Q1 ~/vaccination-rates-over-time-by-age.txt ~/Vaccination_Q1
-hadoop fs -cat ~/Vaccination_Q1/* > ~/src/23219041_Assignment1/Q2/vaccination-rates-over-time-by-age-v2.txt
+hadoop fs -cat ~/Vaccination_Q1/* > ~/src/23219041_Assignment1/Q1/vaccination-rates-over-time-by-age-v2.txt
 ```
